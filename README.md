@@ -1,2 +1,2 @@
 # Logica
-Alura - Curso Lógica
+Alura - Curso Lógica!
